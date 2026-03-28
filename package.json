@@ -1,7 +1,6 @@
 {
   "name": "gobang-server",
   "version": "1.0.0",
-  "description": "Gobang Online Game Server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
